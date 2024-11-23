@@ -3,6 +3,10 @@
 This repository contains PyTorch code for the paper:
 Development of an Interpretable Deep Learning Model for Pathological Tumor Response Assessment After Neoadjuvant Therapy
 
+
+## We'll have our code and data out in the open before 2024, Dec!  I'm scrambling to get it all sorted like a cat on a hot tin roof! 
+## It really takes time to be a new teacher in college. :(
+
 This work illustrates deep learning's potential for assisting pathological response assessment. Spatial heatmaps and patch examples provide intuitive explanations of model predictions, engendering clinical trust and adoption. Integrating interpretable computational pathology could help enhance efficiency and consistency of tumor response assessment and empower precise oncology treatment decisions.
 
 
